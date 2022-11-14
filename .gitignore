@@ -1,0 +1,15 @@
+JLink*
+hex/
+RTE/
+_build/
+build/
+Output/
+*.uvguix.*
+*.uvoptx
+*.uvgui.*
+.vscode
+*.scvd
+**/lvgl/
+*.emSession
+*.jlink
+*.BROWSE.*
